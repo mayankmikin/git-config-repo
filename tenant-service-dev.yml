@@ -1,0 +1,10 @@
+server:
+  port: 2222
+  
+spring:
+  application:
+    name: tenant-service
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+      

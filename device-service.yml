@@ -1,0 +1,10 @@
+server:
+  port: 2223
+  
+spring:
+  application:
+    name: device-service
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+      

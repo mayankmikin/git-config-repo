@@ -1,0 +1,10 @@
+server:
+  port: 2225
+  
+spring:
+  application:
+    name: account-service
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+      
